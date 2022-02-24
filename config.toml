@@ -1,0 +1,27 @@
+baseURL = 'https://codamstudentcouncil.nl/'
+languageCode = 'en-gb'
+title = 'Codam Student Council Website'
+theme = 'terminal'
+
+[params]
+themeColor = "green"
+
+[languages]
+[languages.en]
+    languageName = "English"
+    title = "Codam Student Council"
+
+    [languages.en.params.logo]
+        logoText = "Codam Student Council"
+        logoHomeLink = "/"
+
+    [languages.en.menu]
+        [[languages.en.menu.main]]
+        identifier = "timeline"
+        name = "Timeline"
+        url = "/timeline"
+
+        [[languages.en.menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
