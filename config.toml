@@ -2,9 +2,11 @@ baseURL = '/'
 languageCode = 'en-gb'
 title = 'Codam Student Council Website'
 theme = 'terminal'
+copyright = '<a href="https://github.com/CodamStudentCouncil/webite">View source code</a>'
 
 [params]
 themeColor = "green"
+oneHeadingSize = false
 
 [languages]
 [languages.en]
