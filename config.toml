@@ -22,6 +22,11 @@ themeColor = "green"
         url = "/timeline"
 
         [[languages.en.menu.main]]
+        identifier = "join"
+        name = "Join the Council"
+        url = "/join"
+
+        [[languages.en.menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "/contact"
