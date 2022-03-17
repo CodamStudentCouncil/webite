@@ -1,4 +1,4 @@
-baseURL = 'https://codamstudentcouncil.nl/'
+baseURL = '/'
 languageCode = 'en-gb'
 title = 'Codam Student Council Website'
 theme = 'terminal'
