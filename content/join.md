@@ -20,11 +20,9 @@ You are expected to commit an average of 4 to 6 hours per week to your council d
 
 ## Next election
 
-The next election will run from 28/03/2022 to 03/04/2022.
-Three candidates will be elected, replacing Peer and Niks.
+The next election will run from 25/07/2022 to 31/07/2022.
+Four candidates will be elected, replacing Abba, Izaak, Nick, and Noah.
 
 ## How to apply
 
-If you want to apply please fill in the [registration form]. 
-
-[registration form]: https://forms.gle/yG5C12xzYfBWWqJs8
+Please contact us if you are interested!
