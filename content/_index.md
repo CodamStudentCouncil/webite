@@ -3,7 +3,7 @@ title: Meet the council
 date: 2022-03-02
 ---
 
-![The entire coucil standing in front of a Christmas tree](/images/group_picture.jpg)
+![A Codam mug with "Student Council" written on it](/images/codam-student-council-mug.jpg)
 
 ## Goal of the Codam Student Council
 The student council is here to make sure student voices are heard, and offer staff an insight into what is going on at Codam. We aim to keep the quality of education high, as well as to improve the overall student experience.
